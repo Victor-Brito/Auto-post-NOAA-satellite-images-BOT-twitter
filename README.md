@@ -1,4 +1,4 @@
-"# -Automatic-bot-for-posting" 
+"# -Auto-post-NOAA-satellite-images-BOT-twitter
 
 This project is an automatic bot to post images of the NOAA satellite on social media, the example used in this project was twitter. NOTE: to make this code work you need to install
 "selenium.py"
