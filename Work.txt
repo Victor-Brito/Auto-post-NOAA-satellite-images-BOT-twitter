@@ -1,0 +1,10 @@
+
+Download satellite GIF
+
+Rename to the name twitter posts to
+
+Open twitter bot script
+
+post image
+
+delete imagem to enter on the  next loop
